@@ -3,6 +3,8 @@
 ⚡️CAE Assistant is a comprehensive platform offering a wide array of ***courses***, ***training packages***, ***project execution***, and ***expert consultancy*** services, in the field of Computer-Aided Engineering (CAE) simulations with a primary focus on the Abaqus software. Our team is composed of specialists in 🧑‍💻mechanical, 🏗️civil, 🔬materials, and 🧬biomechanical engineering, bringing a wealth of academic and industrial experience to our content. 
 
 
+
+
 ***🧰 We provide a variety of resources to suit different learning needs including:***
 
 🎓 ***General Courses:*** Structured courses covering a range of CAE topics, from beginner to expert levels.
