@@ -7,9 +7,10 @@
 <br>
 ***🧰 We provide a variety of resources to suit different learning needs including:***
 <br>
+<br>
 🎓 ***General Courses:*** Structured courses covering a range of CAE topics, from beginner to expert levels.
 
-📚 Training Packages:*** In-depth, project-based learning experiences with all necessary files and step-by-step video or PDF guidance.
+📚 ***Training Packages:*** In-depth, project-based learning experiences with all necessary files and step-by-step video or PDF guidance.
 
 🤝 ***Consultancy:*** Expert assistance and outsourcing for your academic and industrial simulation projects.
 
@@ -17,7 +18,8 @@
 <br>
 <br>
 <br>
-CAE Assistant team specializes in advanced topics, including but not limited to:
+🌱 CAE Assistant team specializes in advanced topics, including but not limited to:
+<br>
 <br>
 🔧 ***Finite Element Analysis (FEA):*** From fundamental concepts to advanced applications.
 
@@ -31,6 +33,7 @@ CAE Assistant team specializes in advanced topics, including but not limited to:
 <br>
 <br>
 This GitHub page will serve as a hub for ***open-source projects***, ***code snippets***, ***demo projects***, and ***supplementary materials*** related to our tutorials and training programs.
+<br>
 <br>
 We are continuously working to expand our offerings and provide valuable resources to the engineering community. Stay tuned for future updates to this page! 🌟
 <br>
