@@ -1,4 +1,4 @@
-✨Welcome to the official GitHub repository for CAE Assistant team!✨
+***✨Welcome to the official GitHub repository for CAE Assistant team!✨***
 
 ⚡️CAE Assistant is a comprehensive platform offering a wide array of courses, training packages, project doing, and expert consultancy services, in the field of Computer-Aided Engineering (CAE) simulations with a primary focus on the Abaqus software. Our team is composed of specialists in mechanical, civil, materials, and biomechanical engineering, bringing a wealth of academic and industrial experience to our content.Our mission is to empower engineers, students, researchers, and companies with the knowledge and skills to tackle complex engineering challenges using advanced simulation tools.
 
