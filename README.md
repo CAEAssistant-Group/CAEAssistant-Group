@@ -1,4 +1,4 @@
-***✨Welcome to the official GitHub repository for CAE Assistant team!✨***
+**✨Welcome to the official GitHub repository for CAE Assistant team!✨**
 <br>
 <br>
 <br>
@@ -6,7 +6,7 @@
 <br>
 <br>
 <br>
-***🧰 We provide a variety of resources to suit different learning needs including:***
+**We provide a variety of resources to suit different learning needs including:**
 <br>
 <br>
 🎓 ***General Courses:*** Structured courses covering a range of CAE topics, from beginner to expert levels.
@@ -19,7 +19,7 @@
 <br>
 <br>
 <br>
-🌱 CAE Assistant team specializes in advanced topics, including but not limited to:
+**CAE Assistant team specializes in advanced topics, including but not limited to:**
 <br>
 <br>
 🔧 ***Finite Element Analysis (FEA):*** From fundamental concepts to advanced applications.
